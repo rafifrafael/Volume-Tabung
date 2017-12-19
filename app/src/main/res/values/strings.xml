@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolTabung</string>
+    <string name="jari">Panjang Jari-Jari =</string>
+    <string name="tinggi">Tinggi =</string>
+</resources>
